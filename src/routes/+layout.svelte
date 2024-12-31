@@ -28,7 +28,7 @@
       <i class="fa-solid fa-arrow-up grid place-items-center aspect-square"></i>
     </button>
   </div>
-  <Header {y}/>
+  <Header {y} />
   {@render children()}
   <Footer />
 </div>
